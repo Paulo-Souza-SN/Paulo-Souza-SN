@@ -7,6 +7,15 @@
 
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Souza-SN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" width="49%" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Souza-SN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="100" width="31%" alt="languages graph"  />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -20,7 +29,7 @@
 
 <p align="left"></p>
 
-<h2 align="left">📩 Social</h2>
+<h2 align="left">📩 Fale comigo</h2>
 
 ###
 
@@ -67,34 +76,11 @@
 
 <p align="left">• Sistema de gerenciamento de projetos<br>• Aplicação front-end com React<br>• API REST em Node (em andamento)</p>
 
-###
-
-###
-
-<h2 align="left">📊 Status</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Souza-SN&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="270" alt="activity-graph graph"  />
-</div>
 
 ###
 
 <p align="left"></p>
 
-###
-
-<p align="left"></p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulo-Souza-SN/Paulo-Souza-SN/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paulo-Souza-SN/Paulo-Souza-SN/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Paulo-Souza-SN/Paulo-Souza-SN/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 

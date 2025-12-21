@@ -1,8 +1,12 @@
 <p align="left"></p>
 
 ###
+<div align="center">
 
-<h1 align="center">Muito prazer, eu sou o Paulo!</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=ED05FF&background=FFFFFF00&center=true&width=435&lines=Muito+prazer%2C+eu+sou+o+Paulo!;Desenvolvedor+Full+stack)](https://git.io/typing-svg)
+
+</div>
+
 
 ###
 
@@ -48,7 +52,7 @@
 
 ###
 
-<p align="left">- Sistema de gerenciamento de projetos<br>- Aplicação front-end com React<br>- API REST em Node (em andamento)</p>
+<p align="left">• Sistema de gerenciamento de projetos<br>• Aplicação front-end com React<br>• API REST em Node (em andamento)</p>
 
 ###
 
@@ -60,7 +64,7 @@
 
 ###
 
-<p align="left">- Telefone: +55 (98) 9-8594-1403<br>- Email: paulosouzza.dev@gmail.com<br>- LinkedIn: Paulo Souza</p>
+<p align="left">• Telefone: +55 (98) 9-8594-1403<br>• Email: paulosouzza.dev@gmail.com<br>• LinkedIn: Paulo Souza</p>
 
 ###
 

@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B06D1FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B06D1FF&height=120&section=header&"/>
 
 ###
 <div align="center">
@@ -33,12 +33,10 @@
 
 ###
 
+
 <div align="left">
   <a href="https://www.linkedin.com/in/paulo-souza-68b3782aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/souzza_sn?igsh=MWcxN3BvdjhnbjZzNw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
@@ -66,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###

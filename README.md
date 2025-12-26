@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Desenvolvedor de software com experiência acadêmica e prática com desenvolvimento Full stack utilizando HTML, CSS, Figma, JavaScript, React, Node, MySQL, PostgreSQL. Estou aprendendo Typescript ajudando a tornar projetos e aplicações mais seguras e escaláveis.</p>
+<p align="left">Desenvolvedor de software com experiência acadêmica e prática com desenvolvimento Full stack utilizando Figma, HTML, CSS, JavaScript, React, Node, MySQL Estou aprendendo Typescript ajudando a tornar projetos e aplicações mais seguras e escaláveis.</p>
 
 ###
 

@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Desenvolvedor de software com experiência acadêmica e prática com desenvolvimento Full stack utilizando Figma, HTML, CSS, JavaScript, React, Node, MySQL Estou aprendendo Typescript ajudando a tornar projetos e aplicações mais seguras e escaláveis.</p>
+<p align="left">Desenvolvedor de software com experiência acadêmica e prática com desenvolvimento Full stack utilizando Figma, HTML, CSS, JavaScript, React, Node, MySQL. Estou aprofundando meus conhecimentos em backend para criar aplicações cada vaz mais funcionais e completas</p>
 
 ###
 
@@ -50,6 +50,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -64,7 +65,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
 
 ###
 
@@ -72,7 +76,7 @@
 
 ###
 
-<p align="left">• Sistema de gerenciamento de projetos<br>• Aplicação front-end com React<br>• API REST em Node (em andamento)</p>
+<p align="left">• Aplicação front-end com React<br>• API REST em Node (em andamento)</p>
 
 
 ###

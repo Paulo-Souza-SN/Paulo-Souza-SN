@@ -9,21 +9,26 @@
 
 ###
 
+<h2 align="left">🧠 Sobre mim</h2>
+
+###
+
+<p align="left">Desenvolvedor de software com experiência acadêmica e prática com desenvolvimento Full stack utilizando Frontend React e Backend Java. Atualmente me especializando em Backend Java tornando projetos e aplicações mais seguras e escaláveis.</p>
+
+###
+
+<p align="left"></p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Souza-SN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" width="80%" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Souza-SN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="100" width="80%" alt="languages graph"  />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<h2 align="left">🧠 Sobre mim</h2>
-
-###
-
-<p align="left">Desenvolvedor de software com experiência acadêmica e prática com desenvolvimento Full stack utilizando Figma, HTML, CSS, JavaScript, React, Node, MySQL. Estou aprofundando meus conhecimentos em backend para criar aplicações cada vaz mais funcionais e completas</p>
 
 ###
 
@@ -46,29 +51,24 @@
 
 ###
 
+
 <h2 align="left">🤖 Tecnologias</h2>
 
 ###
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
 
 ###
 
@@ -76,7 +76,11 @@
 
 ###
 
-<p align="left">• Aplicação front-end com React<br>• API REST em Node (em andamento)</p>
+<ul>
+  <li>API de Gestão de Inventário e Logística Reversa</li>
+  <li>Sistema de Agendamento para Serviços Públicos ou Clínicas</li>
+  <li>Microserviço de Notificações com Mensageria</li>
+</ul>
 
 
 ###

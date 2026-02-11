@@ -22,14 +22,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Souza-SN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" width="80%" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Souza-SN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="100" width="80%" alt="languages graph"  />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Paulo-Souza-SN&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
-
-
 
 ###
 
@@ -38,7 +33,6 @@
 <h2 align="left">📩 Fale comigo</h2>
 
 ###
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/paulo-souza-68b3782aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">

@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Desenvolvedor de software com experiência acadêmica e prática com desenvolvimento Full stack utilizando Frontend React e Backend Java. Atualmente me especializando em Backend Java tornando projetos e aplicações mais seguras e escaláveis.</p>
+<p align="left">Desenvolvedor de software com experiência acadêmica em desenvolvimento Full stack. Atualmente me especializando em TypeScript tornando projetos e aplicações mais seguras e escaláveis, mas trazendo lógica de programação para resolver problemas com qualquer linguagem.</p>
 
 ###
 
@@ -43,6 +43,10 @@
   <a href="https://www.linkedin.com/in/paulo-souza-68b3782aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+
+  <a href="mailto:paulosouzza.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -63,9 +67,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>

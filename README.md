@@ -78,7 +78,7 @@
 <ul>
   <li>API de Gestão de Inventário e Logística Reversa</li>
   <li>Sistema de Agendamento para Serviços Públicos ou Clínicas</li>
-  <li><a href="https://github.com/Paulo-Souza-SN/Microservico-de-Notificacoes">Microserviço de Notificações com Mensageria</a></li>
+  <li><a href="https://github.com/Paulo-Souza-SN/Microservico-de-Notificacoes">Microserviço de Notificações</a></li>
 </ul>
 
 

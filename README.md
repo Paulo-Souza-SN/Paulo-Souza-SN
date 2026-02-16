@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Desenvolvedor de software com experiência acadêmica em desenvolvimento Full stack. Atualmente me especializando em TypeScript tornando projetos e aplicações mais seguras e escaláveis, mas trazendo lógica de programação para resolver problemas com qualquer linguagem.</p>
+<p align="left">Desenvolvedor de software com experiência acadêmica em desenvolvimento Full Stack. Atualmente me especializando em .Net (C#) tornando projetos e aplicações mais seguras e escaláveis, trazendo lógica de programação para resolver problemas com qualquer linguagem.</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left"></p>
+<br>
 
 <h2 align="left">📩 Fale comigo</h2>
 
@@ -46,30 +46,45 @@
 
 ###
 
-<p align="left"></p>
+<br>
 
-###
-
-
-<h2 align="left">🤖 Tecnologias</h2>
+<h2 align="left">🤖 Tecnologias de Domínio</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+<h2 align="left">📖 Em Evolução</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
 ###
+
+<br>
 
 <h2 align="left">📂 Projetos em Destaque</h2>
 
@@ -78,14 +93,8 @@
 <ul>
   <li>API de Gestão de Inventário e Logística Reversa</li>
   <li>Sistema de Agendamento para Serviços Públicos ou Clínicas</li>
-  <li><a href="https://github.com/Paulo-Souza-SN/Microservico-de-Notificacoes">Microserviço de Notificações</a></li>
+  <li><a href="https://github.com/Paulo-Souza-SN/Microservico-de-Notificacoes">Microserviço de Notificações com mensageria</a></li>
 </ul>
-
-
-###
-
-<p align="left"></p>
-
 
 ###
 

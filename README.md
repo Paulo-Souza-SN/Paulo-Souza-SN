@@ -85,7 +85,7 @@
   <li>Monitoramento de Preços</li>
   <li>Extração de Leads do Google Maps</li>
   <li>PDF para Excel</li>
-  <li><a href="https://github.com/Paulo-Souza-SN/Microservico-de-Notificacoes">API de Notificações</a></li>
+  <li><a href="https://github.com/Paulo-Souza-SN/Microservico-de-Notificacoes">Microservico de Notificações</a></li>
 </ul>
 
 ###

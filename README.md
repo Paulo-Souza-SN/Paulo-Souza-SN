@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Desenvolvedor de software com experiência acadêmica em desenvolvimento Full Stack. Atualmente me especializando em Automação transformando processos manuais e repetitivos em economia e otimização de tempo. Trago lógica de programação para resolver os problemas da sua empresa com a stack que for preciso.</p>
+<p align="left">Desenvolvedor de software com sólida base em desenvolvimento Full Stack e foco atual em aplicações Frontend. </p>
 </p>
 
 ###
@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Paulo-Souza-SN&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="250" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Souza-SN&radius=16&theme=nightowl&area=true&order=5&line=ED05FF&point=3B06D1FF&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -49,7 +49,7 @@
 
 <br>
 
-<h2 align="left">🤖 Tecnologias de Domínio</h2>
+<h2 align="left">⚡ Tecnologias de Domínio</h2>
 
 ###
 
@@ -63,30 +63,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
 <br>
 
-<h2 align="left">📂 Projetos em Destaque</h2>
+<h2 align="left">⭐ Projetos em Destaque</h2>
 
 ###
-
-<ul>
-  <li>Monitoramento de Preços</li>
-  <li>Extração de Leads do Google Maps</li>
-  <li>PDF para Excel</li>
-  <li><a href="https://github.com/Paulo-Souza-SN/Microservico-de-Notificacoes">Microservico de Notificações</a></li>
-</ul>
+<p>Em desenvolvimento...</p>
 
 ###
 

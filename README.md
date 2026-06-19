@@ -73,7 +73,7 @@
 
 ###
 <ul>
-  <li><a href="https://github.com/Paulo-Souza-SN/catalogo-digital"><p>Catálogo Digital</p></a></li>
+  <li><a href="https://github.com/Paulo-Souza-SN/catalogo-digital" target="_blank"><p>Catálogo Digital</p></a></li>
 </ul>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED05FF&height=120&section=footer"/>

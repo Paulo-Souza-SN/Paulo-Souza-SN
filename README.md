@@ -72,7 +72,7 @@
 <h2 align="left">⭐ Projetos em Destaque</h2>
 
 ###
-<p>Em desenvolvimento...</p>
+<a href="https://github.com/Paulo-Souza-SN/catalogo-digital"><p>Catálogo Digital</p></a>
 
 ###
 

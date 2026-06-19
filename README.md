@@ -72,8 +72,8 @@
 <h2 align="left">⭐ Projetos em Destaque</h2>
 
 ###
-<a href="https://github.com/Paulo-Souza-SN/catalogo-digital"><p>Catálogo Digital</p></a>
-
-###
+<ul>
+  <li><a href="https://github.com/Paulo-Souza-SN/catalogo-digital"><p>Catálogo Digital</p></a></li>
+</ul>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED05FF&height=120&section=footer"/>

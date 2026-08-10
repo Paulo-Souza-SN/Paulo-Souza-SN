@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Desenvolvedor de software com sólida base em desenvolvimento Full Stack e foco atual em aplicações Frontend. </p>
+<p align="left">Desenvolvedor de software com sólida base em desenvolvimento frontend com conhecimentos full stack.</p>
 </p>
 
 ###
